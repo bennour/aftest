@@ -13,7 +13,7 @@ mvn clean install
 ### Running
 
 1. Please run mongodb server on **default port 27017**.
-2.  Run class.
+2. Run **AfTestApplication class**.
 
 ### Testing
 
